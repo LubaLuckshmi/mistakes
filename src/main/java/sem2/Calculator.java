@@ -1,3 +1,5 @@
+package sem2;
+
 public class Calculator {
     public static double divide(int dividend, int divisor) throws DivisionException {
         if ((divisor == 0) && (dividend < 100)) {

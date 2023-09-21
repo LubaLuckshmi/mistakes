@@ -1,3 +1,5 @@
+package sem2;
+
 public class ThrowsExample {
     public static double divide(int dividend, int divisor) throws ArithmeticException {
         if (divisor == 0) {

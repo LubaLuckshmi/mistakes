@@ -5,20 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94382de0-c9e0-4ac4-ac2a-f8cbe623d1da" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HomeworkTask1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HomeworkTask2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HomeworkTask3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ThrowsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem3/task1/CalculationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem3/task1/CalculatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem3/task2/OrderException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem3/task2/OrderProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem3/task2/OrderUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem3/task2/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem3/task2/ProductDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem3/task3/BusinessLogicException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem3/task3/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem3/task3/CalculatorException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem3/task3/CalculatorUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem3/task3/UIException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sem2/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HomeworkTask1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sem2/HomeworkTask1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HomeworkTask2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sem2/HomeworkTask2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HomeworkTask3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sem2/HomeworkTask3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThrowsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sem2/ThrowsExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sem2/task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sem2/task3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,52 +56,71 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.HomeworkTask3">
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Calculator" />
+  <component name="RunManager" selected="Application.CalculatorUI">
+    <configuration name="CalculatorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem3.task1.CalculatorExample" />
       <module name="hw1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sem3.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeworkTask1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeworkTask1" />
+    <configuration name="CalculatorUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem3.task3.CalculatorUI" />
       <module name="hw1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sem3.task3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="HomeworkTask2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeworkTask2" />
+      <option name="MAIN_CLASS_NAME" value="sem2.HomeworkTask2" />
       <module name="hw1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="HomeworkTask3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeworkTask3" />
+      <option name="MAIN_CLASS_NAME" value="sem2.HomeworkTask3" />
       <module name="hw1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task3" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem3.Main" />
       <module name="hw1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sem3.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalculatorUI" />
+        <item itemvalue="Application.CalculatorExample" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.HomeworkTask3" />
         <item itemvalue="Application.HomeworkTask2" />
-        <item itemvalue="Application.HomeworkTask1" />
-        <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.task3" />
       </list>
     </recent_temporary>
   </component>
@@ -107,7 +132,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695122701042</updated>
-      <workItem from="1695122702417" duration="2336000" />
+      <workItem from="1695122702417" duration="5582000" />
     </task>
     <servers />
   </component>
